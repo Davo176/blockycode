@@ -13,3 +13,9 @@ Also included is the folio with details about how it was made and an essay on th
 
 
 Note that I did not create all of the art used in this game.
+
+[Game Walkthrough](https://youtu.be/9HJHqExkxUU)
+
+[Code Walkthrough](https://youtu.be/9vsAE7fVbEE)
+
+
